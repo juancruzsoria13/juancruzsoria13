@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hola a todos
 
-<!--
-**juancruzsoria13/juancruzsoria13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un apasionado científico de datos junior con especialización en machine learning y análisis de datos. Poseo sólidos conocimientos en la extracción de insights significativos a partir de datos complejos y en la aplicación de técnicas avanzadas de machine learning para resolver problemas empresariales. Busco continuar desarrollando mis habilidades en un entorno colaborativo que fomente la innovación y el aprendizaje continuo.
 
-Here are some ideas to get you started:
+Mis habilidades:
+💻 Python | SQL
+📚 Pandas | Numpy | Matplotlib | Seaborn | Scikit-learn | FastAPI 
+🛢 SQLServer | MySQL | BigQuery
+☁️ Microsoft Azure
+📊 Power BI
+⚙️ GitHub | Jupyter | Google Colab | Visual Studio Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estoy en busqueda de oportunidades laborales relacionadas con la ciencia de datos
+
+Aquí dejo otros canales donde puedes contactarme:
+Mail: juancruz.soria13@gmail.com
+GitHub: https://github.com/juancruzsoria13
