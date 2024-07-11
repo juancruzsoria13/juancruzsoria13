@@ -12,6 +12,6 @@ Mis habilidades:
 
 Estoy en busqueda de oportunidades laborales relacionadas con la ciencia de datos
 
-Aquí dejo otros canales donde puedes contactarme:
+Aquí dejo otro canale donde puedes contactarme:
 Mail: juancruz.soria13@gmail.com
-GitHub: https://github.com/juancruzsoria13
+
